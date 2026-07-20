@@ -1,0 +1,6 @@
+city,datetime_utc,temperature_c,temperature_f,feels_like_c,humidity_pct,weather_condition,weather_description,wind_speed_mps,wind_speed_kmh
+Accra,2026-07-17 17:25:09,25.16,77.288,25.79,79,Clouds,overcast clouds,3.78,13.607999999999999
+Harare,2026-07-17 17:24:22,15.46,59.828,14.31,48,Clouds,broken clouds,1.95,7.02
+Johannesburg,2026-07-17 17:24:34,12.69,54.842,11.14,43,Clear,clear sky,1.97,7.092
+Lagos,2026-07-17 17:24:27,23.96,75.128,24.76,90,Clouds,overcast clouds,3.34,12.024
+Nairobi,2026-07-17 17:24:31,18.49,65.282,18.2,69,Clouds,overcast clouds,2.61,9.395999999999999
